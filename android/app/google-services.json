@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043346743774",
+    "project_id": "urraan-firebase-notification",
+    "storage_bucket": "urraan-firebase-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043346743774:android:e5aab3f2df2ab5232ffd4f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043346743774-7pl9d56ru8e4isu503r8cd1r86aefpfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcCBHjFBcds4cKy-ybdkzjDdWRezxyj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043346743774-7pl9d56ru8e4isu503r8cd1r86aefpfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
